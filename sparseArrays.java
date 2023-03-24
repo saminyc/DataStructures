@@ -9,7 +9,6 @@ import java.util.regex.*;
 class Result {
 
     /*
-     * Complete the 'matchingStrings' function below.
      *
      * The function is expected to return an INTEGER_ARRAY.
      * The function accepts following parameters:
@@ -18,7 +17,7 @@ class Result {
      */
 
             public static List<Integer> matchingStrings(List<String> strings, List<String> queries) {
-                // Write your code here
+               
 
                 //Each of query string checks Each strings to determine the counts
                 List<Integer> ans=new ArrayList<>();
