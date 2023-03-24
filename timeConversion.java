@@ -10,7 +10,7 @@ class timeConversion {
          */
 
         public static String timeConverts(String s) {
-                // Write your code here
+        
                 //A single string  that represents a time in -hour clock format (i.e.: hh:mm:ssAM
 
                 //finding hour
